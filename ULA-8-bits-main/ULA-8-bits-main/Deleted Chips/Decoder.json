@@ -1,0 +1,144 @@
+{
+  "DLSVersion": "2.1.6",
+  "Name": "Decoder",
+  "NameLocation": 0,
+  "ChipType": 0,
+  "Size": {
+    "x": 1.175,
+    "y": 2.0
+  },
+  "Colour": {
+    "r": 0.162096232,
+    "g": 0.5944792,
+    "b": 0.0223534,
+    "a": 1
+  },
+  "InputPins":[
+    {
+      "Name":"1",
+      "ID":2032008782,
+      "Position":{
+        "x":-7.25,
+        "y":2.375
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"2",
+      "ID":1841011049,
+      "Position":{
+        "x":-7.25,
+        "y":1.875
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"4",
+      "ID":389961113,
+      "Position":{
+        "x":-7.25,
+        "y":1.375
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    }
+  ],
+  "OutputPins":[
+    {
+      "Name":"S0",
+      "ID":2142259025,
+      "Position":{
+        "x":4.375,
+        "y":3.5
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"S1",
+      "ID":819080482,
+      "Position":{
+        "x":4.375,
+        "y":3.0
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"S2",
+      "ID":1383518779,
+      "Position":{
+        "x":4.375,
+        "y":2.5
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"S3",
+      "ID":114452865,
+      "Position":{
+        "x":4.375,
+        "y":2.0
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"S4",
+      "ID":688735291,
+      "Position":{
+        "x":4.375,
+        "y":1.5
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"S5",
+      "ID":1723951082,
+      "Position":{
+        "x":4.375,
+        "y":1.0
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"S6",
+      "ID":535018960,
+      "Position":{
+        "x":4.375,
+        "y":0.5
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    },
+    {
+      "Name":"S7",
+      "ID":442467486,
+      "Position":{
+        "x":4.375,
+        "y":0.0
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    }
+  ],
+  "SubChips":[],
+  "Wires":[],
+  "Displays": null
+}

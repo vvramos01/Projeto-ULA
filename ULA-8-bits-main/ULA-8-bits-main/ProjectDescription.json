@@ -1,0 +1,176 @@
+{
+  "ProjectName": "CIRCUITS",
+  "DLSVersion_LastSaved": "2.1.6",
+  "DLSVersion_EarliestCompatible": "2.0.0",
+  "CreationTime": "2025-04-22T19:45:00.701-03:00",
+  "LastSaveTime": "2025-06-11T17:51:41.936-03:00",
+  "Prefs_MainPinNamesDisplayMode": 0,
+  "Prefs_ChipPinNamesDisplayMode": 0,
+  "Prefs_GridDisplayMode": 1,
+  "Prefs_Snapping": 2,
+  "Prefs_StraightWires": 2,
+  "Prefs_SimPaused": false,
+  "Prefs_SimTargetStepsPerSecond": 1000,
+  "Prefs_SimStepsPerClockTick": 250,
+  "AllCustomChipNames":[
+    "NOT",
+    "OR",
+    "AND",
+    "NOR",
+    "XOR",
+    "XNOR",
+    "HALF ADD",
+    "FULL ADD",
+    "2-BIT ADD",
+    "4-BIT ADD",
+    "8-BIT ADD",
+    "HALF SUB",
+    "FULL SUB",
+    "2-BIT SUB",
+    "4-BIT SUB",
+    "8-BIT SUB",
+    "DESLOCADOR",
+    "4-AND",
+    "8-1 MUX",
+    "8-OR",
+    "3-AND",
+    "3-8 DEC",
+    "XOR BITWISE",
+    "AND BITWISE",
+    "ORR BITWISE",
+    "NAND2",
+    "ULA",
+    "ULA APR",
+    "8-1B",
+    "1-8",
+    "8-1A"
+  ],
+  "StarredList":[
+    {
+      "Name":"IN/OUT",
+      "IsCollection":true
+    },
+    {
+      "Name":"MERGE/SPLIT",
+      "IsCollection":true
+    },
+    {
+      "Name":"LOGIC GATES",
+      "IsCollection":true
+    },
+    {
+      "Name":"LOGIC GATES +",
+      "IsCollection":true
+    },
+    {
+      "Name":"ADDERS",
+      "IsCollection":true
+    },
+    {
+      "Name":"SUBS",
+      "IsCollection":true
+    },
+    {
+      "Name":"BITWISE",
+      "IsCollection":true
+    },
+    {
+      "Name":"DECODERS",
+      "IsCollection":true
+    },
+    {
+      "Name":"MUX",
+      "IsCollection":true
+    },
+    {
+      "Name":"DESLOCADOR",
+      "IsCollection":true
+    },
+    {
+      "Name":"ULA",
+      "IsCollection":true
+    }
+  ],
+  "ChipCollections":[
+    {
+      "Chips":["CLOCK","KEY","3-STATE BUFFER"],
+      "IsToggledOpen":false,
+      "Name":"BASIC"
+    },
+    {
+      "Chips":["IN-1","IN-4","IN-8","OUT-1","OUT-4","OUT-8"],
+      "IsToggledOpen":false,
+      "Name":"IN/OUT"
+    },
+    {
+      "Chips":["1-4BIT","1-8BIT","4-8BIT","4-1BIT","8-4BIT","8-1BIT","8-1B","1-8","8-1A"],
+      "IsToggledOpen":false,
+      "Name":"MERGE/SPLIT"
+    },
+    {
+      "Chips":["BUS-1","BUS-4","BUS-8"],
+      "IsToggledOpen":false,
+      "Name":"BUS"
+    },
+    {
+      "Chips":["7-SEGMENT","DOT DISPLAY","RGB DISPLAY"],
+      "IsToggledOpen":false,
+      "Name":"DISPLAY"
+    },
+    {
+      "Chips":["ROM 256×16"],
+      "IsToggledOpen":false,
+      "Name":"MEMORY"
+    },
+    {
+      "Chips":["AND","NOT","NAND","OR","NOR","XOR","XNOR","NAND2"],
+      "IsToggledOpen":false,
+      "Name":"LOGIC GATES"
+    },
+    {
+      "Chips":["8-OR","4-AND","3-AND"],
+      "IsToggledOpen":false,
+      "Name":"LOGIC GATES +"
+    },
+    {
+      "Chips":["ORR BITWISE","AND BITWISE","XOR BITWISE"],
+      "IsToggledOpen":false,
+      "Name":"BITWISE"
+    },
+    {
+      "Chips":["8-BIT ADD","4-BIT ADD","2-BIT ADD","FULL ADD","HALF ADD"],
+      "IsToggledOpen":false,
+      "Name":"ADDERS"
+    },
+    {
+      "Chips":["8-BIT SUB","4-BIT SUB","2-BIT SUB","FULL SUB","HALF SUB"],
+      "IsToggledOpen":false,
+      "Name":"SUBS"
+    },
+    {
+      "Chips":["3-8 DEC"],
+      "IsToggledOpen":false,
+      "Name":"DECODERS"
+    },
+    {
+      "Chips":["8-1 MUX"],
+      "IsToggledOpen":false,
+      "Name":"MUX"
+    },
+    {
+      "Chips":["PULSE","LED","BUZZER"],
+      "IsToggledOpen":false,
+      "Name":"OTHER"
+    },
+    {
+      "Chips":["DESLOCADOR"],
+      "IsToggledOpen":false,
+      "Name":"DESLOCADOR"
+    },
+    {
+      "Chips":["ULA APR","ULA"],
+      "IsToggledOpen":false,
+      "Name":"ULA"
+    }
+  ]
+}
